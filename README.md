@@ -130,8 +130,6 @@ pip install pandas matplotlib numpy
 jupyter notebook data_cleaning.ipynb
 ```
 
-The notebook reads `telcochurn.csv` — point it to `data/Telco_Churn_RAW.csv` or rename as needed.
-
 ---
 
 ## 🔗 Links
