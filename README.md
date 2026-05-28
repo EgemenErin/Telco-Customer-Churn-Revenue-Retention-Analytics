@@ -124,7 +124,7 @@ df['Tenure_Cohort'] = pd.cut(df['tenure'], bins=bins, labels=labels, include_low
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/telco-churn-analytics.git
+git clone https://github.com/EgemenErin/telco-churn-analytics.git
 cd telco-churn-analytics
 pip install pandas matplotlib numpy
 jupyter notebook data_cleaning.ipynb
