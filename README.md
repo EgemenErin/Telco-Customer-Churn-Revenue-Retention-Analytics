@@ -137,7 +137,7 @@ The notebook reads `telcochurn.csv` — point it to `data/Telco_Churn_RAW.csv` o
 ## 🔗 Links
 
 - 🌐 [Portfolio — egemenerin.com](https://www.egemenerin.com)
-- 📊 [Interactive Power BI Dashboard](#) *(link to published report)*
+- 📊 [Interactive Power BI Dashboard](https://app.powerbi.com/groups/me/reports/18a3646f-871e-48c8-98bf-324ee5a3a75b/3398295873e992db23e3?experience=power-bi) 
 - 📧 egemeneriin@protonmail.com
 
 ---
