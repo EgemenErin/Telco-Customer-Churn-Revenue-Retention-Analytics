@@ -12,7 +12,7 @@
 
 ## 📌 Project Overview
 
-A full end-to-end analytics project on a **7,000+ row telecom customer dataset**. The goal was to go beyond a surface-level churn rate — and quantify exactly how much recurring revenue is walking out the door, and *why*.
+A full end-to-end analytics project on a **7,000+ row telecom customer dataset**. The goal was to go beyond a surface-level churn rate and quantify exactly how much recurring revenue is walking out the door, and *why*.
 
 The pipeline covers data ingestion, cleaning, transformation, and a two-page interactive Power BI dashboard surfacing actionable retention insights.
 
